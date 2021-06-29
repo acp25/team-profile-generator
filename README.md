@@ -9,8 +9,11 @@ You can clone this repo and it's contents from Github. The server must have Node
 ## Credits
 Made by Alex Philibert
 Node.js
-Inquirer
-Jest
+
+Inquirer https://www.npmjs.com/package/inquirer
+
+Jest https://www.npmjs.com/package/jest
+
 
 
 ## MIT License
