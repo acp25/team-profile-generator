@@ -1,14 +1,18 @@
 # team-profile-generator
 
 ## Description
+
 A Node.js command-line application that takes information about employees and then generates an HTML webpage that displays summaries for each person.This application is written with JavaScript. A user should use this application with Node.js. The "Inquirer" package is used to provide a command line interface. The "Jest" package is used to test and validate the classes. 
 
 ## Installation
+
 You can clone this repo and it's contents from Github. The server must have Node.js installed, along with the "Inquirer" package and "Jest" package to run. Once forked, run "npm i"on the root directory to install required dependencies.
 
 ## Credits
+
 Made by Alex Philibert
-Node.js
+
+Node.js https://www.npmjs.com/package/node
 
 Inquirer https://www.npmjs.com/package/inquirer
 
