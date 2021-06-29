@@ -2,10 +2,11 @@
 A command line application that takes user input and generates an HTML document containing roster information for a software engineering team
 
 ## Description
-This project generates an HTML page containing a roster for a software engineering team.  The application is written using JavaScript and should be run using the Node.js JavaScript runtime environment.  The Bootstrap CSS framework was used for styling the HTML document.  The node package manager inquirer package is used to provide a command line interface for the application, and the jest package is used to validate classes.
+This application generates an HTML page containing a roster for a software engineering team.  The application is written using JavaScript and should be run using the Node.js JavaScript runtime environment.  The node package manager inquirer package is used to provide a command line interface for the application, and the jest package is used to validate and test classes.
   
 ## Installation
-Clone the repo from Github and open in Visual Studio Code
+
+Clone the repo from Github and open in Visual Studio Code. Remember to do an "npm i" in the intergrated terminal to install the necessary files. 
 
 
 ## Usage
