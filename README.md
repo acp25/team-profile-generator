@@ -8,6 +8,14 @@ A Node.js command-line application that takes information about employees and th
 
 You can clone this repo and it's contents from Github. The server must have Node.js installed, along with the "Inquirer" package and "Jest" package to run. Once forked, run "npm i"on the root directory to install required dependencies.
 
+##Usage
+![image](https://user-images.githubusercontent.com/60405505/123864713-12468580-d8f9-11eb-84d6-4e7f94716727.png)
+
+
+
+
+
+
 ## Credits
 
 Made by Alex Philibert
