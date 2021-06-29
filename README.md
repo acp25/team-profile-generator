@@ -5,8 +5,9 @@ A command line application that takes user input and generates an HTML document 
 This project generates an HTML page containing a roster for a software engineering team.  The application is written using JavaScript and should be run using the Node.js JavaScript runtime environment.  The Bootstrap CSS framework was used for styling the HTML document.  The node package manager inquirer package is used to provide a command line interface for the application, and the jest package is used to validate classes.
   
 ## Installation
-From GitHub, fork the repo all upload all contents to the deployed webserver.  The server must have Node.js installed.  Once forked, run `npm i` from the root directory to install required dependencies.
-  
+Clone the repo from Github and open in Visual Studio Code
+
+
 ## Usage
 
 ![image](https://user-images.githubusercontent.com/60405505/123871950-5e49f800-d902-11eb-8a16-6c60facdb94b.png)
