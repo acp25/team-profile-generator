@@ -30,7 +30,7 @@ Jest https://www.npmjs.com/package/jest
 
 
 ## License
-This application is covered under MIT License
+MIT License
 
 <details>
   <summary>
