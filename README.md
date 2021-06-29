@@ -8,12 +8,11 @@ This project generates an HTML page containing a roster for a software engineeri
 From GitHub, fork the repo all upload all contents to the deployed webserver.  The server must have Node.js installed.  Once forked, run `npm i` from the root directory to install required dependencies.
   
 ## Usage
-From the application's root directory, run `node app.js`.  Follow the user prompts to provide information about each employee in the software engineering team.  Upon completion, the application will generate a new `team.html`, in the `./output` directory
 
 ![image](https://user-images.githubusercontent.com/60405505/123871950-5e49f800-d902-11eb-8a16-6c60facdb94b.png)
 
 
-[Link to video demo]https://youtu.be/0-VXPV5-h7s
+[Link to video demo]  https://youtu.be/0-VXPV5-h7s
 
 
   
@@ -72,7 +71,7 @@ No contributions are being accepted at this time.
 [![GitHub stars](https://img.shields.io/github/stars/pkriengsiri/team-roster-generator)](https://github.com/pkriengsiri/team-roster-generator/stargazers)
 
 ## Tests
-Run `npm test` to run tests via the npm jest package.
+Run npm test to run tests via the npm jest package.
 
 Test application video: https://youtu.be/0-VXPV5-h7s
 
