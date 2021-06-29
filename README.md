@@ -30,6 +30,7 @@ From the application's root directory, run `node app.js`.  Follow the user promp
 ![screenshot of generated html](./images/app_screenshot.png)
 
 [Link to video demo](https://drive.google.com/file/d/1wWZ0rFmzrbEf7Ru10aj6L-_SapE1Lf_v/view)
+Test application video: https://youtu.be/0-VXPV5-h7s
   
 ## Credits
 Collaborators on this project included instructional staff, TAs, and students in the Georgia Tech Coding Boot Camp Winter 2020 cohort.
