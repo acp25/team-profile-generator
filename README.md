@@ -66,10 +66,6 @@ SOFTWARE.
 ## Contributing
 No contributions are being accepted at this time.
   
-## Badges
-[![GitHub license](https://img.shields.io/github/license/pkriengsiri/team-roster-generator)](https://github.com/pkriengsiri/team-roster-generator/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/pkriengsiri/team-roster-generator)](https://github.com/pkriengsiri/team-roster-generator/issues)
-[![GitHub stars](https://img.shields.io/github/stars/pkriengsiri/team-roster-generator)](https://github.com/pkriengsiri/team-roster-generator/stargazers)
 
 ## Tests
 Run npm test to run tests via the npm jest package.
